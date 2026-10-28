@@ -1,0 +1,10 @@
+[package]
+name = "celestial"
+version = "0.1.0"
+edition = "2021"
+description = "Celestial — an open-source, cross-platform code editor in Rust (egui) for Rust, Assembly, and Python, with a package and extension installer"
+license = "MIT"
+
+[dependencies]
+eframe = "0.29"
+egui = "0.29"
